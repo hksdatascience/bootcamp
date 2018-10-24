@@ -17,4 +17,9 @@ Welcome to HKS Data Science Bootcamp!
 * Install Git
     * MacOS: Already installed
     * Windows: [Git for Windows](https://gitforwindows.org/)
-
+* Basics of programming for data science
+    * [Python](https://www.learnpython.org/en/Pandas_Basics)
+    * [R](https://online-learning.harvard.edu/course/data-science-r-basics)
+    * [DataCamp](https://www.datacamp.com/) (both)
+        * Some free courses
+        * Most require paid subscription (may be worth it)
