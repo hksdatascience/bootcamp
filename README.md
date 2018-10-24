@@ -23,3 +23,4 @@ Welcome to HKS Data Science Bootcamp!
     * [DataCamp](https://www.datacamp.com/) (both)
         * Some free courses
         * Most require paid subscription (may be worth it)
+* Check out the [cheat sheets](cheat_sheets)
