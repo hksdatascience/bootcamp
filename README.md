@@ -4,7 +4,7 @@ Welcome to HKS Data Science Bootcamp!
 #### Week 1
 
 * GitHub
-    * Setup an account
+    * [Setup an account](https://github.com/join?source=header-home)
     * Apply for [Student Developer Pack](https://education.github.com/pack)
 * Setting up programming tools
     * [Python/Anaconda](https://www.anaconda.com/download/)
