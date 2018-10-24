@@ -5,7 +5,7 @@ Welcome to HKS Data Science Bootcamp!
 
 * GitHub
     * [Setup an account](https://github.com/join?source=header-home)
-    * Apply for [Student Developer Pack](https://education.github.com/pack)
+    * Apply for [Student Developer Pack](https://education.github.com/pack) (optional, but recommended)
 * Setting up programming tools
     * [Python/Anaconda](https://www.anaconda.com/download/)
     * [R](https://cloud.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
