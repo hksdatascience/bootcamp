@@ -3,6 +3,8 @@ Welcome to HKS Data Science Bootcamp!
 
 #### Week 1
 
+Look! I changed something...
+
 * GitHub
     * [Setup an account](https://github.com/join?source=header-home)
     * Apply for [Student Developer Pack](https://education.github.com/pack) (optional, but recommended)
