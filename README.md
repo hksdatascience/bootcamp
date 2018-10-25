@@ -27,3 +27,6 @@ Welcome to HKS Data Science Bootcamp!
         * Most require paid subscription (may be worth it)
     * [Kaggle Learn](https://www.kaggle.com/learn)
 * Check out the [cheat sheets](cheat_sheets)
+
+
+Plus...want to write something in GitHub? Use [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
