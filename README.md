@@ -8,6 +8,7 @@ Welcome to HKS Data Science Bootcamp!
     * Apply for [Student Developer Pack](https://education.github.com/pack) (optional, but recommended)
 * Setting up programming tools
     * [Python/Anaconda](https://www.anaconda.com/download/)
+        * [Jupyter](http://jupyter.org/install) also highly recommended
     * [R](https://cloud.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
 * Setting up a text editor
     * [SublimeText](https://www.sublimetext.com/)
