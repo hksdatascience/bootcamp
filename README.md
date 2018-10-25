@@ -13,6 +13,7 @@ Welcome to HKS Data Science Bootcamp!
 * Setting up a text editor
     * [SublimeText](https://www.sublimetext.com/)
     * [Atom](https://atom.io/)
+    * [Notepad++](https://notepad-plus-plus.org/)
 * Set up a folder for projects
     * Common names: dev, projects, hksdatascience
 * Install Git
