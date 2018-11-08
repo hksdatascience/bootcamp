@@ -12,4 +12,14 @@
 * Why Does It Matter?
       * When you have really big datasets, it is completely crazy to do something for every row in the dataset
 
-:+1:
+* Example: Say you want to put a lot 
+
+'''R
+
+continent <- c('Africa', 'Americas', 'Asia', 'Europe', 'Oceania')
+
+for (n in continent){
+  something <- subset(table1, table1$continent == n)
+  plot(something$GdpPerCapita, something$MedianLifeExpectancy)
+}
+'''
