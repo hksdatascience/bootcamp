@@ -14,7 +14,7 @@
 
 * Example: Say you want to put a lot 
 
-'''R
+```R
 
 continent <- c('Africa', 'Americas', 'Asia', 'Europe', 'Oceania')
 
@@ -22,4 +22,4 @@ for (n in continent){
   something <- subset(table1, table1$continent == n)
   plot(something$GdpPerCapita, something$MedianLifeExpectancy)
 }
-'''
+```
