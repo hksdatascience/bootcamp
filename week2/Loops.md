@@ -28,9 +28,9 @@ for (n in continent){
 }
 ```
 
-* More Complicated Example: Say you are running a K Nearest Neighbors (KNN) Regression model but you don't really know what to choose as a k value 
+* More Complicated Example: Say you are running a K Nearest Neighbors (KNN) Regression model but you don't know what to choose as a k value 
 
-   * KNN Explanation: KNN divides data into "k" number of groups and then predicts on this number, but it is hard to know what value of k is best)
+   * KNN Explanation: KNN divides data into "k" number of groups and then predicts on these groups, but it is hard to know what value of k is best
 
 * To solve this, you might want to run every value of k betweeen 1 and 30, but you don't want to manually write that code 30 times. Here a for loop would be perfect. 
 
