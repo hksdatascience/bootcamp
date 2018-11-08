@@ -12,7 +12,10 @@
 * Why Does It Matter?
       * When you have really big datasets, it is completely crazy to do something for every row in the dataset
 
-* Example: Say you want to put a lot 
+* Example: Say you have a table with the GDP Per Capita and Median Life Expectancy for every country in the world but you want to create a separate graph for each country
+
+   * With a loop, you can create a list of continents then have the loop create all 5 plots at once
+* **Here is the code to do so:
 
 ```R
 
