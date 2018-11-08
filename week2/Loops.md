@@ -17,7 +17,7 @@
    * With a loop, you can create a list of continents then have the loop create all 5 plots at once
    
    
-# **Here is the code to do so:
+Here is R Code to do this:
 ```R
 
 continent <- c('Africa', 'Americas', 'Asia', 'Europe', 'Oceania')
