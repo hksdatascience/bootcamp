@@ -1,7 +1,7 @@
 ### **HKS Data Science Bootcamp**
-## **Welcome to HKS Data Science Bootcamp!
+## Welcome to HKS Data Science Bootcamp!
 
-## **Week 2
+## Week 2
 
 * **Two main kinds of loops**: For Loops & While Loops
 * Good Resource
