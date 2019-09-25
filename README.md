@@ -9,8 +9,7 @@ Welcome to HKS Data Science Bootcamp!
     * [Setup an account](https://github.com/join?source=header-home)
     * Download [Github Desktop](https://desktop.github.com/)
 * Setting up programming tools
-    * [Python/Anaconda](https://www.anaconda.com/download/)
-        * [Jupyter](http://jupyter.org/install) also highly recommended
+    * [Python/Anaconda](https://www.anaconda.com/download/): This will install all of the necessary applications to run python. To open the program, open Anaconda Navigator and select "Jupyter Notebook"
 
 
 ##### Other Useful Tasks:
