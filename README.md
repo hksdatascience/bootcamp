@@ -3,22 +3,24 @@ Welcome to HKS Data Science Bootcamp!
 
 #### Week 1
 
+#### Required Tasks to Get Set Up:
+
 * GitHub
     * [Setup an account](https://github.com/join?source=header-home)
-    * Apply for [Student Developer Pack](https://education.github.com/pack) (optional, but recommended)
+    * Download [Github Desktop](https://desktop.github.com/)
 * Setting up programming tools
     * [Python/Anaconda](https://www.anaconda.com/download/)
         * [Jupyter](http://jupyter.org/install) also highly recommended
-    * [R](https://cloud.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
+
+
+##### Other Useful Tasks:
+
 * Setting up a text editor
     * [SublimeText](https://www.sublimetext.com/)
     * [Atom](https://atom.io/)
     * [Notepad++](https://notepad-plus-plus.org/)
 * Set up a folder for projects
     * Common names: dev, projects, hksdatascience
-* Install Git
-    * MacOS: Already installed
-    * Windows: [Git for Windows](https://gitforwindows.org/)
 * Basics of programming for data science
     * [Python](https://www.learnpython.org/en/Pandas_Basics)
     * [R](https://online-learning.harvard.edu/course/data-science-r-basics)
