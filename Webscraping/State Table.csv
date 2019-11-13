@@ -1,0 +1,323 @@
+,Year,Ridership,state
+0,2012,66403.0,Alabama
+1,2013,65213.0,Alabama
+2,2014,62426.0,Alabama
+3,2015,60167.0,Alabama
+4,2016,57398.0,Alabama
+5,2017,56382.0,Alabama
+6,2018,53831.0,Alabama
+0,2012,104.9,Arizona
+1,2013,105.3,Arizona
+2,2014,104.4,Arizona
+3,2015,109.6,Arizona
+4,2016,107.3,Arizona
+5,2017,109.7,Arizona
+6,2018,104.1,Arizona
+0,2012,40899.0,Arkansas
+1,2013,40641.0,Arkansas
+2,2014,36470.0,Arkansas
+3,2015,34800.0,Arkansas
+4,2016,32196.0,Arkansas
+5,2017,34807.0,Arkansas
+6,2018,33548.0,Arkansas
+0,2012,963.0,California
+1,2013,1196.0,California
+2,2014,527.0,California
+3,2015,951.0,California
+4,2016,1229.0,California
+5,2017,1338.0,California
+6,2018,1665.0,California
+0,2012,202.2,Colorado
+1,2013,193.8,Colorado
+2,2014,199.3,Colorado
+3,2015,223.3,Colorado
+4,2016,246.0,Colorado
+5,2017,273.9,Colorado
+6,2018,263.2,Colorado
+0,2012,1757.6,Connecticut
+1,2013,1730.9,Connecticut
+2,2014,1693.9,Connecticut
+3,2015,1665.9,Connecticut
+4,2016,1566.3,Connecticut
+5,2017,1546.5,Connecticut
+6,2018,1666.8,Connecticut
+0,2012,741.8,Delaware
+1,2013,740.4,Delaware
+2,2014,707.8,Delaware
+3,2015,707.1,Delaware
+4,2016,697.0,Delaware
+5,2017,693.4,Delaware
+6,2018,710.3,Delaware
+0,2012,1140.1,Florida
+1,2013,1099.3,Florida
+2,2014,1067.5,Florida
+3,2015,1016.9,Florida
+4,2016,936.4,Florida
+5,2017,909.2,Florida
+6,2018,885.0,Florida
+0,2012,197.2,Georgia
+1,2013,187.5,Georgia
+2,2014,175.3,Georgia
+3,2015,162.5,Georgia
+4,2016,151.2,Georgia
+5,2017,150.9,Georgia
+6,2018,141.5,Georgia
+0,2012,8815.0,Idaho
+1,2013,9596.0,Idaho
+2,2014,8489.0,Idaho
+3,2015,7867.0,Idaho
+4,2016,7510.0,Idaho
+5,2017,7366.0,Idaho
+6,2018,7166.0,Idaho
+0,2012,4962.8,Illinois
+1,2013,5063.6,Illinois
+2,2014,4884.4,Illinois
+3,2015,4753.3,Illinois
+4,2016,4580.0,Illinois
+5,2017,4738.7,Illinois
+6,2018,4679.3,Illinois
+0,2012,148.5,Indiana
+1,2013,152.4,Indiana
+2,2014,147.4,Indiana
+3,2015,133.6,Indiana
+4,2016,132.5,Indiana
+5,2017,138.1,Indiana
+6,2018,130.6,Indiana
+0,2012,59695.0,Iowa
+1,2013,59035.0,Iowa
+2,2014,56599.0,Iowa
+3,2015,57508.0,Iowa
+4,2016,61247.0,Iowa
+5,2017,60434.0,Iowa
+6,2018,57999.0,Iowa
+0,2012,49498.0,Kansas
+1,2013,50146.0,Kansas
+2,2014,49418.0,Kansas
+3,2015,49673.0,Kansas
+4,2016,49484.0,Kansas
+5,2017,52214.0,Kansas
+6,2018,49476.0,Kansas
+0,2012,10781.0,Kentucky
+1,2013,11116.0,Kentucky
+2,2014,10067.0,Kentucky
+3,2015,10055.0,Kentucky
+4,2016,9600.0,Kentucky
+5,2017,9290.0,Kentucky
+6,2018,8495.0,Kentucky
+0,2012,253.1,Louisiana
+1,2013,243.9,Louisiana
+2,2014,232.6,Louisiana
+3,2015,220.9,Louisiana
+4,2016,211.1,Louisiana
+5,2017,209.6,Louisiana
+6,2018,213.6,Louisiana
+0,2012,330.7,Maine
+1,2013,348.1,Maine
+2,2014,334.9,Maine
+3,2015,262.8,Maine
+4,2016,308.6,Maine
+5,2017,322.3,Maine
+6,2018,341.7,Maine
+0,2012,1914.2,Maryland
+1,2013,1943.7,Maryland
+2,2014,1904.5,Maryland
+3,2015,1845.4,Maryland
+4,2016,1913.2,Maryland
+5,2017,1985.9,Maryland
+6,2018,2002.3,Maryland
+0,2012,3080.4,Massachusetts
+1,2013,3065.7,Massachusetts
+2,2014,3114.9,Massachusetts
+3,2015,3108.5,Massachusetts
+4,2016,3220.0,Massachusetts
+5,2017,3232.6,Massachusetts
+6,2018,3314.6,Massachusetts
+0,2012,859.5,Michigan
+1,2013,891.6,Michigan
+2,2014,849.1,Michigan
+3,2015,819.2,Michigan
+4,2016,744.5,Michigan
+5,2017,806.4,Michigan
+6,2018,835.5,Michigan
+0,2012,177.6,Minnesota
+1,2013,171.1,Minnesota
+2,2014,137.4,Minnesota
+3,2015,136.9,Minnesota
+4,2016,144.0,Minnesota
+5,2017,136.4,Minnesota
+6,2018,126.7,Minnesota
+0,2012,114.1,Mississippi
+1,2013,112.0,Mississippi
+2,2014,107.8,Mississippi
+3,2015,106.5,Mississippi
+4,2016,102.7,Mississippi
+5,2017,100.5,Mississippi
+6,2018,96.1,Mississippi
+0,2012,722.5,Missouri
+1,2013,757.4,Missouri
+2,2014,725.5,Missouri
+3,2015,690.5,Missouri
+4,2016,688.5,Missouri
+5,2017,729.5,Missouri
+6,2018,715.2,Missouri
+0,2012,148.7,Montana
+1,2013,147.3,Montana
+2,2014,117.4,Montana
+3,2015,112.1,Montana
+4,2016,123.6,Montana
+5,2017,125.3,Montana
+6,2018,121.4,Montana
+0,2012,46119.0,Nebraska
+1,2013,49011.0,Nebraska
+2,2014,48600.0,Nebraska
+3,2015,52993.0,Nebraska
+4,2016,54593.0,Nebraska
+5,2017,54940.0,Nebraska
+6,2018,52906.0,Nebraska
+0,2012,79502.0,Nevada
+1,2013,91016.0,Nevada
+2,2014,77125.0,Nevada
+3,2015,73985.0,Nevada
+4,2016,86097.0,Nevada
+5,2017,81819.0,Nevada
+6,2018,83714.0,Nevada
+0,2012,213.4,New Hampshire
+1,2013,226.4,New Hampshire
+2,2014,196.1,New Hampshire
+3,2015,167.1,New Hampshire
+4,2016,198.1,New Hampshire
+5,2017,204.6,New Hampshire
+6,2018,212.9,New Hampshire
+0,2012,1649.0,New Jersey
+1,2013,1628.4,New Jersey
+2,2014,1625.5,New Jersey
+3,2015,1596.3,New Jersey
+4,2016,1637.4,New Jersey
+5,2017,1667.2,New Jersey
+6,2018,1704.7,New Jersey
+0,2012,128.9,New Mexico
+1,2013,127.2,New Mexico
+2,2014,126.0,New Mexico
+3,2015,131.4,New Mexico
+4,2016,125.9,New Mexico
+5,2017,122.4,New Mexico
+6,2018,102.9,New Mexico
+0,2012,1329.0,New York
+1,2013,1416.0,New York
+2,2014,1962.0,New York
+3,2015,2214.0,New York
+4,2016,2413.0,New York
+5,2017,2346.0,New York
+6,2018,2375.0,New York
+0,2012,923.4,North Carolina
+1,2013,958.5,North Carolina
+2,2014,951.3,North Carolina
+3,2015,938.1,North Carolina
+4,2016,880.7,North Carolina
+5,2017,847.9,North Carolina
+6,2018,868.8,North Carolina
+0,2012,153.7,North Dakota
+1,2013,153.5,North Dakota
+2,2014,130.8,North Dakota
+3,2015,119.5,North Dakota
+4,2016,106.2,North Dakota
+5,2017,103.4,North Dakota
+6,2018,103.2,North Dakota
+0,2012,161.8,Ohio
+1,2013,159.6,Ohio
+2,2014,152.3,Ohio
+3,2015,142.3,Ohio
+4,2016,140.6,Ohio
+5,2017,147.7,Ohio
+6,2018,134.1,Ohio
+0,2012,91113.0,Oklahoma
+1,2013,84726.0,Oklahoma
+2,2014,81466.0,Oklahoma
+3,2015,71115.0,Oklahoma
+4,2016,68557.0,Oklahoma
+5,2017,73455.0,Oklahoma
+6,2018,69473.0,Oklahoma
+0,2012,914.8,Oregon
+1,2013,914.1,Oregon
+2,2014,820.7,Oregon
+3,2015,794.7,Oregon
+4,2016,823.7,Oregon
+5,2017,829.5,Oregon
+6,2018,796.9,Oregon
+0,2012,6050.2,Pennsylvania
+1,2013,6189.4,Pennsylvania
+2,2014,5957.7,Pennsylvania
+3,2015,6082.9,Pennsylvania
+4,2016,6330.0,Pennsylvania
+5,2017,6427.6,Pennsylvania
+6,2018,6514.9,Pennsylvania
+0,2012,864.0,Rhode Island
+1,2013,841.4,Rhode Island
+2,2014,850.8,Rhode Island
+3,2015,882.1,Rhode Island
+4,2016,911.7,Rhode Island
+5,2017,942.5,Rhode Island
+6,2018,973.6,Rhode Island
+0,2012,241.0,South Carolina
+1,2013,236.5,South Carolina
+2,2014,222.0,South Carolina
+3,2015,216.2,South Carolina
+4,2016,195.8,South Carolina
+5,2017,194.9,South Carolina
+6,2018,179.7,South Carolina
+0,2012,75688.0,Tennessee
+1,2013,78675.0,Tennessee
+2,2014,72589.0,Tennessee
+3,2015,74968.0,Tennessee
+4,2016,74667.0,Tennessee
+5,2017,76122.0,Tennessee
+6,2018,73758.0,Tennessee
+0,2012,458.3,Texas
+1,2013,437.2,Texas
+2,2014,410.5,Texas
+3,2015,376.1,Texas
+4,2016,356.9,Texas
+5,2017,388.5,Texas
+6,2018,377.9,Texas
+0,2012,52565.0,Utah
+1,2013,54942.0,Utah
+2,2014,51203.0,Utah
+3,2015,45830.0,Utah
+4,2016,51161.0,Utah
+5,2017,49625.0,Utah
+6,2018,55181.0,Utah
+0,2012,94.2,Vermont
+1,2013,98.9,Vermont
+2,2014,106.0,Vermont
+3,2015,101.7,Vermont
+4,2016,90.8,Vermont
+5,2017,92.4,Vermont
+6,2018,91.9,Vermont
+0,2012,1380.6,Virginia
+1,2013,1489.6,Virginia
+2,2014,1471.1,Virginia
+3,2015,1488.6,Virginia
+4,2016,1437.8,Virginia
+5,2017,1474.9,Virginia
+6,2018,1452.1,Virginia
+0,2012,1283.1,Washington
+1,2013,1254.3,Washington
+2,2014,1229.7,Washington
+3,2015,1192.4,Washington
+4,2016,1247.5,Washington
+5,2017,1260.3,Washington
+6,2018,1307.3,Washington
+0,2012,54708.0,West Virginia
+1,2013,55819.0,West Virginia
+2,2014,44293.0,West Virginia
+3,2015,44299.0,West Virginia
+4,2016,55658.0,West Virginia
+5,2017,50596.0,West Virginia
+6,2018,54493.0,West Virginia
+0,2012,934.7,Wisconsin
+1,2013,913.9,Wisconsin
+2,2014,880.8,Wisconsin
+3,2015,884.5,Wisconsin
+4,2016,899.0,Wisconsin
+5,2017,919.7,Wisconsin
+6,2018,929.1,Wisconsin
